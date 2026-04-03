@@ -316,7 +316,7 @@ const LetterGenerator = () => {
         {/* INPUT */}
         <div className="bg-white shadow-xl rounded-xl p-6">
           <h2 className="text-2xl font-semibold mb-4">
-            Letter Generator (Markdown Supported)
+            Letter Generator 
           </h2>
 
           <textarea
